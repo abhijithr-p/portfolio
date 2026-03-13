@@ -315,7 +315,7 @@ renderer.setPixelRatio(window.devicePixelRatio);
 renderer.setSize(window.innerWidth, window.innerHeight);
 
 // Particles representing magical golden sparks (lumos)
-const particleCount = 1000; // Dense magical atmosphere
+const particleCount = 600; // Dense magical atmosphere
 const particles = new THREE.BufferGeometry();
 const particlePositions = new Float32Array(particleCount * 3);
 
@@ -623,4 +623,5 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 });
+
 
