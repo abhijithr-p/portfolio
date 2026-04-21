@@ -997,42 +997,42 @@ section {
 
 /* Placeholder bg images based on your descriptions */
 .bg-1 {
-    background-image: url('assets/bg-1.png');
+    background-image: url('bg-1.png');
 }
 
 /* AI text / LLM */
 .bg-2 {
-    background-image: url('assets/bg-2.png');
+    background-image: url('bg-2.png');
 }
 
 /* Mail/SMTP */
 .bg-3 {
-    background-image: url('assets/bg-3.png');
+    background-image: url('bg-3.png');
 }
 
 /* Video/Code */
 .bg-4 {
-    background-image: url('assets/bg-4.png');
+    background-image: url('bg-4.png');
 }
 
 /* Remote system */
 .bg-5 {
-    background-image: url('assets/bg-5.png');
+    background-image: url('bg-5.png');
 }
 
 /* Code editor */
 .bg-6 {
-    background-image: url('assets/bg-6.png');
+    background-image: url('bg-6.png');
 }
 
 /* Aquaponic / Agriculture */
 .bg-7 {
-    background-image: url('assets/bg-7.png');
+    background-image: url('bg-7.png');
 }
 
 /* Forest Fire Prediction */
 .bg-8 {
-    background-image: url('assets/bg-8.png');
+    background-image: url('bg-8.png');
 }
 
 /* Responsive Bento Grid */
